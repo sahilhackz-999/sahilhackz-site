@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color: neon;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+.nav-link {
+    color: #39FF14;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+    cursor: pointer;
+}
